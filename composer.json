@@ -1,5 +1,5 @@
 {
-  "name": "imanghafoori/smart-realtime-facades",
+  "name": "prigroup/smart-realtime-facades",
   "description": "Real-time facades with IDE auto-completion.",
   "keywords": ["laravel", "facade"],
   "license": "MIT",
